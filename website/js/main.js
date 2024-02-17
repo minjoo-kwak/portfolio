@@ -764,7 +764,7 @@ window.addEventListener('DOMContentLoaded', function () {
 
 // 섹션12
 
-if (scrollTop >= 33100) {
+if (scrollTop >= 33000) {
   $('.fstitle').addClass('on')
 
 this.setTimeout(() => {
@@ -780,7 +780,7 @@ this.setTimeout(() => {
 }, 200)
 }
 
-if (scrollTop >= 33500) {
+if (scrollTop >= 33400) {
   $('.fw1').addClass('on')
 
 this.setTimeout(() => {
